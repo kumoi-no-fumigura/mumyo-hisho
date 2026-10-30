@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/mumyo-hisho",
  "yomi": "むみょうひしょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "鎌倉初期",
+  "author": "鴨長明",
+  "desc": "鴨長明の歌論書「無名抄」にあたる。題の心、歌の詞から、俊恵・頼政ら歌人の逸話、歌枕の故実まで、多くの章段で記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -313,6 +318,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
